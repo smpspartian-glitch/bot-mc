@@ -1,0 +1,16 @@
+{
+  "name": "mineflayer-bot-duo",
+  "version": "1.0.0",
+  "description": "Two Mineflayer bots: BS_Editz and Itx_Mozzy",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "author": "Jeetesh",
+  "license": "MIT",
+  "dependencies": {
+    "mineflayer": "^4.31.0",
+    "mineflayer-pathfinder": "^2.4.5",
+    "vec3": "^0.1.10"
+  }
+}
